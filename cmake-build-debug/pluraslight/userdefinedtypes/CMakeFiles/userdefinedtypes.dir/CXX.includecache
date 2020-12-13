@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/adamc/CLionProjects/cpplearning/pluraslight/userdefinedtypes/Person.h
+string
+-
+
+/mnt/c/Users/adamc/CLionProjects/cpplearning/pluraslight/userdefinedtypes/Status.h
+
+/mnt/c/Users/adamc/CLionProjects/cpplearning/pluraslight/userdefinedtypes/userdefinedtypes.cpp
+memory
+-
+iostream
+-
+Person.h
+/mnt/c/Users/adamc/CLionProjects/cpplearning/pluraslight/userdefinedtypes/Person.h
+Status.h
+/mnt/c/Users/adamc/CLionProjects/cpplearning/pluraslight/userdefinedtypes/Status.h
+

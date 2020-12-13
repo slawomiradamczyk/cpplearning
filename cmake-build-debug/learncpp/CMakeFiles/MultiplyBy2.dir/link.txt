@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/MultiplyBy2.dir/MultiplyBy2.cpp.o  -o MultiplyBy2 

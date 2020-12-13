@@ -1,0 +1,7 @@
+project(learing)
+cmake_minimum_required(VERSION 3.5)
+set(CMAKE_CXX_STANDARD  17)
+add_compile_options(-Wall -Werror -pedantic)
+include_directories(common)
+add_subdirectory(pluraslight)
+add_subdirectory(learncpp)

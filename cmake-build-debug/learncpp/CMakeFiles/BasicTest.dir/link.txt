@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/BasicTest.dir/BasicTests.cpp.o  -o BasicTest 
