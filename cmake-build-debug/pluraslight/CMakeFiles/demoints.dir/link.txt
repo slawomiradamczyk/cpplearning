@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/demoints.dir/demoints.cpp.o  -o demoints 
